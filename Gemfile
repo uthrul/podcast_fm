@@ -14,7 +14,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
-gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
+gem 'aws-sdk', '~> 2.0'
 gem 'aws-sdk-v1', '~> 1.66'
 
 gem 'bootsnap', '>= 1.1.0', require: false
