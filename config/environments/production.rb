@@ -102,5 +102,6 @@ Rails.application.configure do
       s3_region: ENV.fetch('AWS_REGION'),
       s3_host_name: ENV.fetch('AWS_ENDPOINT'),
     }
+  }
 
 end
