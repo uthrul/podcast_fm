@@ -16,6 +16,7 @@ gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
 gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
 gem 'aws-sdk-v1', '~> 1.66'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
