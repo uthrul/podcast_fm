@@ -12,11 +12,15 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
+gem 'jquery', '~> 0.0.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+
 gem 'devise', '~> 4.5'
 gem 'paperclip', '~> 6.1'
 gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
 gem 'aws-sdk-v1', '~> 1.66'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'jplayer-rails', '~> 2.5'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
